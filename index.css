@@ -1,0 +1,62 @@
+*{margin:0; padding:0; box-sizing:border-box;
+font-family:'Open Sans', sans-serif;}
+.carousel-inner img {
+    width: 100%;
+    height:90vh;
+    background:#a3a0a2;
+    
+  }
+  .body{
+    background-image: linear-gradient(180deg,red,yellow);
+  }
+
+  .flex-container{
+    display:flex;
+    padding:2%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  p.first-child::first-letter{
+    color:rgb(105, 187, 160);
+    font-size:6rem;
+    float:left;
+    display:block;
+    margin: 0 15px 0 0;
+    line-height:0.7;
+    font-weight:bold;
+  }
+ p.first-child::first-line{
+    color:rgb(105, 187, 160);
+    font-weight:bold;
+  }
+  .first-child{
+   padding:0 12px 0 0;
+    margin:0 14% 6% 13%;
+    font-size:124%; 
+    font-family:'Scheherazade New', serif;
+  }
+  .image{
+   background-image:linear-gradient(135deg,rgbc(10, 10 ,10, 1),rgbc(0, 25, 30, 0)),url("img\oip2.jpg");
+  }
+  
+
+  .contact{
+    font-family: 'Yaldevi', sans-serif;
+  }
+  .desc{
+    font-family: 'Yaldevi', sans-serif;
+  }
+  .wrapper {
+    background-color: #f4f2f7;
+    margin: 20px auto;
+    max-width: 400px;
+    padding: 15px 20px;
+    border-radius: 10px
+}
+  
+  
+
+  
+
+  
+ 
+  
